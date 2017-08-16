@@ -6,9 +6,11 @@
 
 body {
     padding-top: 54px;
-         
+    background-color: black;    
     color: darkslategray;
 }
+
+
 
 @media (min-width: 992px) {
     body {
@@ -16,6 +18,7 @@ body {
         background-color: black;
         
     }
+    
 }
 
 
