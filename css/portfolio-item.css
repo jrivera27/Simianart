@@ -7,16 +7,29 @@
 body {
     padding-top: 54px;
     background-color: black;    
-    color: darkslategray;
+    color: white;
 }
 
+p {
+    font-size: 1em;
+    word-spacing: .2em;
+}
+
+.quote p {
+    font-size: 2em;
+}
+
+.about p {
+    font-size: 1.2em;
+    word-spacing: .4em;
+}
 
 
 @media (min-width: 992px) {
     body {
         padding-top: 56px;
         background-color: black;
-        color: darkslategray;
+        color: white;
         
     }
     
